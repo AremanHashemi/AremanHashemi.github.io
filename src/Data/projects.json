@@ -1,0 +1,29 @@
+{
+	"projects": [
+
+		{ 
+			"Title" :  "HouseHub",
+		 	"Body"  :  "Worked with firebase and Swift to create a reactive user experience that allowed users to see realtime updates",
+		 	"Img"   :  "https://i.imgur.com/GIJjyzv.jpg",
+			"Link"  :  "https://www.youtube.com/watch?v=BeAX-NnY5Ps"
+		},
+
+		{ 
+			"Title" :  "Slug Mail",
+		 	"Body"  :  "Solo project written in the NERP stack utilizing Material-UI for design.",
+		 	"Img"   :  "https://i.imgur.com/PwmE1Ks.jpg",
+			"Link"  : "https://www.youtube.com/watch?v=xkEE2DDJ_fs"
+		},
+		{ 
+			"Title" :  "Toy Dynamo",
+		 	"Body"  :  "With friends created a fault tolerant sharded key-value store. Using vector clocks, and a gossip protocol we maintain causal consistency between network failures",
+		 	"Img"   :  "https://i.imgur.com/KUb4sl4.pngblob:https://imgur.com/5e3876e0-78c6-41b4-9ef8-1cd2cf3e7ec4"
+		},
+		{ 
+			"Title" :  "HTTP server",
+			"Body"	: "Wrote a load-balanced multi-threaded HTTP server in C. POSIX threads handle incoming requests asynchronously using system calls for file i/o. A lockless asynchronous algorithm quickly writes requests to a log file",
+			"Link"  : "https://github.com/AremanHashemi/WebServe",
+	   		"Img"   : "https://i.imgur.com/iSFunak.png"
+		}
+	]
+}
