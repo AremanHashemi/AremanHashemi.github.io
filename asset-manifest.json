@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AremanHashemi/my-website/static/css/main.db9ac3ff.chunk.css",
+    "main.js": "/AremanHashemi/my-website/static/js/main.dfc3eb45.chunk.js",
+    "main.js.map": "/AremanHashemi/my-website/static/js/main.dfc3eb45.chunk.js.map",
+    "runtime-main.js": "/AremanHashemi/my-website/static/js/runtime-main.a2184af2.js",
+    "runtime-main.js.map": "/AremanHashemi/my-website/static/js/runtime-main.a2184af2.js.map",
+    "static/js/2.ce9adf90.chunk.js": "/AremanHashemi/my-website/static/js/2.ce9adf90.chunk.js",
+    "static/js/2.ce9adf90.chunk.js.map": "/AremanHashemi/my-website/static/js/2.ce9adf90.chunk.js.map",
+    "static/js/3.a319c9aa.chunk.js": "/AremanHashemi/my-website/static/js/3.a319c9aa.chunk.js",
+    "static/js/3.a319c9aa.chunk.js.map": "/AremanHashemi/my-website/static/js/3.a319c9aa.chunk.js.map",
+    "index.html": "/AremanHashemi/my-website/index.html",
+    "static/css/main.db9ac3ff.chunk.css.map": "/AremanHashemi/my-website/static/css/main.db9ac3ff.chunk.css.map",
+    "static/js/2.ce9adf90.chunk.js.LICENSE.txt": "/AremanHashemi/my-website/static/js/2.ce9adf90.chunk.js.LICENSE.txt",
+    "static/media/Selfie.68d0b4d9.jpeg": "/AremanHashemi/my-website/static/media/Selfie.68d0b4d9.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2184af2.js",
+    "static/js/2.ce9adf90.chunk.js",
+    "static/css/main.db9ac3ff.chunk.css",
+    "static/js/main.dfc3eb45.chunk.js"
+  ]
+}
