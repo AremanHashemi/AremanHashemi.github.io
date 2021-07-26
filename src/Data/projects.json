@@ -22,7 +22,6 @@
 		{ 
 			"Title" :  "HTTP server",
 			"Body"	: "Wrote a load-balanced multi-threaded HTTP server in C. POSIX threads handle incoming requests asynchronously using system calls for file i/o. A lockless asynchronous algorithm quickly writes requests to a log file",
-			"Link"  : "https://github.com/AremanHashemi/WebServe",
 	   		"Img"   : "https://i.imgur.com/iSFunak.png"
 		}
 	]
